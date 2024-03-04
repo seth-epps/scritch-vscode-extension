@@ -1,0 +1,13 @@
+# ide/editor
+.vscode
+
+# macos stuff
+**/.DS_Store
+
+# personal doc
+PROCESS.md
+
+# build/package output
+node_modules
+out
+*.vsix
